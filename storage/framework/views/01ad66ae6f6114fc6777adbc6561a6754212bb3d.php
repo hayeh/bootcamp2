@@ -1,0 +1,1 @@
+Berjaya disimpan!<?php /**PATH /Users/maisarahmusa/Desktop/work/bootcamp/example/resources/views/emails/simpankereta.blade.php ENDPATH**/ ?>
